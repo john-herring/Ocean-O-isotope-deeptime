@@ -35,9 +35,9 @@ weath_time_late = 4.5-0.9
 # rate constants in Gyr-1, from Muehlenbachs, 1998
 k_weath = 8 #nominal 8 continental weathering
 k_growth = 1.2 #nominal 1.2 continental growth
-k_hiT = 14.6 #nominal 14.6high temperature seafloor 
-k_loT = 1.7 #nominal 1.7low temp seafloor/seafloor weathering 
-k_W_recycling = 0.6 #nominal 0.6water recycling at subduction zones
+k_hiT = 14.6 #nominal 14.6 high temperature seafloor 
+k_loT = 1.7 #nominal 1.7 low temp seafloor/seafloor weathering 
+k_W_recycling = 0.6 #nominal 0.6 water recycling at subduction zones
 
 #fractionations (permil) btwn rock and water, from Muehlenbachs, 1998 except weathering, which we tuned to reproduce -1permil ocean
 
